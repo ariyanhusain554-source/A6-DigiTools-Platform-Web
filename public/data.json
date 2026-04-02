@@ -1,0 +1,129 @@
+[
+  {
+    "id": "prod_001",
+    "name": "Starter Resume Builder",
+    "description": "Create professional resumes with easy-to-use templates and export options.",
+    "price": 9.99,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "50+ templates",
+      "Basic ATS optimization",
+      "Export to PDF"
+    ],
+    "icon": "../src/assets/design-tool.png"
+  },
+  {
+    "id": "prod_002",
+    "name": "Pro Resume Builder",
+    "description": "Advanced resume builder with premium templates and AI suggestions.",
+    "price": 19.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "200+ templates",
+      "Advanced ATS optimization",
+      "AI content suggestions",
+      "Export to PDF & DOCX"
+    ],
+    "icon": "../src/assets/operation.png"
+  },
+  {
+    "id": "prod_003",
+    "name": "Career Booster Pack",
+    "description": "All-in-one career toolkit including resume, cover letter, and portfolio builder.",
+    "price": 49.99,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "Resume builder",
+      "Cover letter generator",
+      "Portfolio website builder",
+      "Custom branding"
+    ],
+    "icon": "../src/assets/package.png"
+  },
+  {
+    "id": "prod_004",
+    "name": "AI Resume Assistant",
+    "description": "Smart assistant that analyzes and improves your resume using AI.",
+    "price": 12.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "AI resume analysis",
+      "Keyword optimization",
+      "Real-time suggestions",
+      "Industry-specific tips"
+    ],
+    "icon": "../src/assets/portfolio.png"
+  },
+  {
+    "id": "prod_005",
+    "name": "Job Hunter Pro",
+    "description": "Track job applications and manage your job search efficiently.",
+    "price": 29.99,
+    "period": "yearly",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "Application tracking",
+      "Interview reminders",
+      "Company insights",
+      "Progress dashboard"
+    ],
+    "icon": "../src/assets/writing_2327400 1.png"
+  },
+  {
+    "id": "prod_006",
+    "name": "LinkedIn Optimizer",
+    "description": "Enhance your LinkedIn profile to attract recruiters and opportunities.",
+    "price": 14.99,
+    "period": "one-time",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "Profile analysis",
+      "Headline generator",
+      "SEO optimization",
+      "Engagement tips"
+    ],
+    "icon": "../src/assets/social-media.png"
+  },
+  {
+    "id": "prod_007",
+    "name": "Interview Prep Kit",
+    "description": "Prepare for interviews with mock questions and expert guidance.",
+    "price": 24.99,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "Mock interview questions",
+      "Video practice",
+      "Expert tips",
+      "Performance feedback"
+    ],
+    "icon": "../src/assets/design-tool.png"
+  },
+  {
+    "id": "prod_008",
+    "name": "Ultimate Career Suite",
+    "description": "Complete suite for job seekers including all premium tools and features.",
+    "price": 99.99,
+    "period": "yearly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "All-in-one access",
+      "Unlimited resumes",
+      "AI assistant",
+      "Priority support"
+    ],
+    "icon": "../src/assets/writing_2327400 1.png"
+  }
+]
