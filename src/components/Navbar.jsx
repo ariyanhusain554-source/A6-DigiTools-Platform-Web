@@ -45,7 +45,7 @@ const Navbar = ({carts}) => {
         {
             open ? <X className="md:hidden"/> :  <Menu className="md:hidden" />
         }
-        <ul className={`md:hidden absolute bg-sky-300 text-black duration-700
+        <ul className={`md:hidden absolute z-50 bg-sky-300 text-black duration-700
             ${open ? 'top-15 left-11' : '-top-50'} `}>
             {links}
         </ul>
@@ -69,7 +69,7 @@ const Navbar = ({carts}) => {
               <span className="rounded-full bg-sky-200 text-black absolute top-3 right-43">{carts.length}</span>
             </span>
               <p>login</p>
-              <button className="btn bg-[linear-gradient(to_right,#4F39F6,#9514FA)]">Get Started</button>
+              <button className="btn text-white bg-[linear-gradient(to_right,#4F39F6,#9514FA)]">Get Started</button>
 
         </div>
   
