@@ -39,8 +39,7 @@ const Steps = () => {
           <div className="card-body">
 
             <div className="relative flex items-center justify-center mb-3">
-                <img className="bg-violet-200 w-25 h-25 bg-cover rounded-full mt-4" src={user} alt="" />
-
+                <img className="bg-violet-200 w-25 h-25 bg-cover rounded-full mt-4" src={packageBox} alt="" />
                 <span className="absolute top-1 right-2 bg-violet-400 rounded-full w-8 h-8 flex items-center justify-center">02</span>
             </div>
 
@@ -56,7 +55,7 @@ const Steps = () => {
           <div className="card-body">
 
             <div className="relative flex items-center justify-center mb-3">
-                <img className="bg-violet-200 w-25 h-25 bg-cover rounded-full mt-4" src={user} alt="" />
+                <img className="bg-violet-200 w-25 h-25 bg-cover rounded-full mt-4" src={rocket} alt="" />
 
                 <span className="absolute top-1 right-2 bg-violet-400 rounded-full w-8 h-8 flex items-center justify-center">03</span>
             </div>
